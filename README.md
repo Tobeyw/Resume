@@ -8,4 +8,4 @@ blockchain indexing, cross-chain systems, and backend infrastructure.
 
 ## Resume
 
-[View Resume](./Mingting-Wang-Resume_EN.pdf)
+[View Resume](./Mingting_Wang_Resume_EN.pdf)
